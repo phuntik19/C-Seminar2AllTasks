@@ -1,0 +1,15 @@
+c:\Users\Админ\Desktop\C#\Seminar2\task9\bin\Debug\net6.0\task9.exe
+c:\Users\Админ\Desktop\C#\Seminar2\task9\bin\Debug\net6.0\task9.deps.json
+c:\Users\Админ\Desktop\C#\Seminar2\task9\bin\Debug\net6.0\task9.runtimeconfig.json
+c:\Users\Админ\Desktop\C#\Seminar2\task9\bin\Debug\net6.0\task9.dll
+c:\Users\Админ\Desktop\C#\Seminar2\task9\bin\Debug\net6.0\task9.pdb
+c:\Users\Админ\Desktop\C#\Seminar2\task9\obj\Debug\net6.0\task9.csproj.AssemblyReference.cache
+c:\Users\Админ\Desktop\C#\Seminar2\task9\obj\Debug\net6.0\task9.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Админ\Desktop\C#\Seminar2\task9\obj\Debug\net6.0\task9.AssemblyInfoInputs.cache
+c:\Users\Админ\Desktop\C#\Seminar2\task9\obj\Debug\net6.0\task9.AssemblyInfo.cs
+c:\Users\Админ\Desktop\C#\Seminar2\task9\obj\Debug\net6.0\task9.csproj.CoreCompileInputs.cache
+c:\Users\Админ\Desktop\C#\Seminar2\task9\obj\Debug\net6.0\task9.dll
+c:\Users\Админ\Desktop\C#\Seminar2\task9\obj\Debug\net6.0\refint\task9.dll
+c:\Users\Админ\Desktop\C#\Seminar2\task9\obj\Debug\net6.0\task9.pdb
+c:\Users\Админ\Desktop\C#\Seminar2\task9\obj\Debug\net6.0\task9.genruntimeconfig.cache
+c:\Users\Админ\Desktop\C#\Seminar2\task9\obj\Debug\net6.0\ref\task9.dll
